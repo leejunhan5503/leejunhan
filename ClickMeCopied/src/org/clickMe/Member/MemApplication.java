@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 import org.clickMe.Member.controller.MemController;
 import org.clickMe.common.model.dto.UserDTO;
-	//Member파일만 보시면 됩니다. 
+
 	/* 실행 역할을 하는 어플리케이션 클래스 생성 */
 	public class MemApplication {
 
